@@ -1,4 +1,4 @@
-**SPAM MAIL DETECTION**
+****SPAM MAIL DETECTION****
 
 
 **Welcome to Our Spam Mail Detection System**
