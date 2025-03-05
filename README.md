@@ -1,4 +1,6 @@
-##SPAM MAIL DETECTION##
+**SPAM MAIL DETECTION**
+
+
 **Welcome to Our Spam Mail Detection System**
 
 Our advanced platform is meticulously designed to safeguard your inbox by accurately detecting and filtering out spam emails using sophisticated machine learning techniques. Here are the key features and benefits of our system:
